@@ -1,13 +1,13 @@
-# lingua
-English to Cameroon Pidgin English Translator Model
+# Lingua
+English to Pidgin English(Cameroon) Sequence-to-Sequence Translator Model
 
 ## Overview
 
-Lingua is an open-source project that focuses on building a translator model using transformers to translate text from English to Cameroon Pidgin English. Cameroon Pidgin English, is a widely spoken creole language in Cameroon, making this project a valuable resource for linguistic diversity.
+Lingua is an open-source project that focuses on building a sequence-to-sequence translator model using transformers to translate text from English to Cameroon Pidgin English. Cameroon Pidgin English is a widely spoken creole language in Cameroon, making this project a valuable resource for linguistic diversity.
 
 ## Features
 
-- **Transformer-Based Translation:** Utilizes state-of-the-art transformer models to achieve accurate and context-aware translations.
+- **Sequence-to-Sequence Learning:** Implements sequence-to-sequence learning for translation tasks, allowing for more context-aware and accurate translations.
 - **Cameroon Pidgin English Support:** Specifically designed for translating English text into Cameroon Pidgin English, catering to the linguistic needs of the Cameroon community.
 - **Open Source:** The entire project is open-source, allowing collaboration and contributions from the community to improve and expand the translation capabilities.
 

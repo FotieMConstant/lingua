@@ -1,6 +1,8 @@
 # Lingua
 English to Pidgin English(Cameroon) Sequence-to-Sequence Translator Model
 
+# 🚨Attention!!! This repo is no longer maintained, other methods are being explored, see [here](https://github.com/FotieMConstant/turaco)!
+
 ## Overview
 
 Lingua is an open-source project that focuses on building a sequence-to-sequence translator model using transformers to translate text from English to Pidgin English(Cameroon). Cameroon Pidgin English is a widely spoken creole language in Cameroon, making this project a valuable resource for linguistic diversity.

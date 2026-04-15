@@ -1,7 +1,7 @@
 # Lingua
 English to Pidgin English(Cameroon) Sequence-to-Sequence Translator Model
 
-# 🚨Attention!!! This repo is no longer maintained, other methods are being explored, see [here](https://github.com/FotieMConstant/turaco)!
+# 🚨Attention!!! This repo is no longer maintained, other methods are being explored, see [here](https://github.com/codewithbro95/turaco)!
 
 ## Overview
 
